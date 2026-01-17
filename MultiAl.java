@@ -1,3 +1,6 @@
+
+
+
 import java.util.ArrayList;
 import java.util.Scanner;
 
@@ -18,3 +21,4 @@ public class MultiAl {
         System.out.println(list);
     }
 }
+
