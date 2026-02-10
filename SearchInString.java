@@ -30,6 +30,8 @@ public class SearchInString {
                 return true;
             }
 
-        }return false;
+        }
+        return false;
     }
 }
+
