@@ -15,6 +15,7 @@ public class arraySum {
 
 
         }
+
         System.out.println(sum);
     }
 }
