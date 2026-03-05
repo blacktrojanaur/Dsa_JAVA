@@ -8,7 +8,9 @@ public class PrintArray {
                return;
         }
         System.out.print(arr[inx] +" ");
+        
         printArray(arr,inx +1);
 
     }
 }
+
