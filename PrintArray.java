@@ -11,7 +11,6 @@ public class PrintArray {
         
         printArray(arr,inx +1);
 
-
     }
 }
 
