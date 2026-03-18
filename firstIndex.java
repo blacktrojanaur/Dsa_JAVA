@@ -8,8 +8,7 @@ public class firstIndex {
        if (i == arr.length){
            return -1;
        }
-
-
+
         if (arr[i] == n) {
             return i ;
 
